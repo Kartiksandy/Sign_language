@@ -12,7 +12,6 @@ This project involves building and evaluating a neural network model to classify
    - **Normalization:** The pixel values of the images are normalized to a range of 0 to 1 to ensure the model receives inputs with similar scales.
    - **Splitting the Data:** The dataset is split into training and testing sets, where the training set is used to train the model, and the testing set is used to evaluate it.
 
-   ![Data Visualization](path_to_data_visualization_plot.png)
 
 3. **Model Building:**
    - **Neural Network Architecture:** 
@@ -27,9 +26,6 @@ This project involves building and evaluating a neural network model to classify
      - TensorBoard or similar tools can be used to visualize the training process.
    - **Evaluation:** 
      - The model's performance is evaluated based on training and validation accuracy, providing insights into how well the model generalizes to unseen data.
-
-   ![Training and Validation Accuracy](path_to_training_validation_accuracy_plot.png)
-   ![Training and Validation Loss](path_to_training_validation_loss_plot.png)
 
 5. **Key Findings:**
    - **Training Accuracy:** Indicates how well the model has learned the patterns in the training data.
@@ -46,17 +42,6 @@ This project involves building and evaluating a neural network model to classify
 
 3. **Run the Notebook:**
    - Open the notebook in Jupyter and execute the cells in sequence to preprocess the data, build the model, and evaluate its performance.
-
-### Visual Examples:
-
-- **Data Visualization:** 
-  ![Data Visualization](path_to_data_visualization_plot.png)
-  
-- **Training and Validation Accuracy:** 
-  ![Training and Validation Accuracy](path_to_training_validation_accuracy_plot.png)
-  
-- **Training and Validation Loss:** 
-  ![Training and Validation Loss](path_to_training_validation_loss_plot.png)
 
 ### Conclusion:
 
